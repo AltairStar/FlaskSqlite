@@ -23,6 +23,12 @@ from flask_sqlalchemy import SQLAlchemy
 import jwt
 ```
 
+##Database
+Used postman to insert information to our db
+```bash
+postman(https://web.postman.co/)
+```
+
 #Examples
 ```bash
 https://github.com/miguelgrinberg/flask-examples
